@@ -5,7 +5,7 @@
 <img align="right" alt="itachi" width="300" height="300" src="https://media3.giphy.com/media/rHA6zm9rRSauk/giphy.gif?cid=790b76110b464db2140cfdb7cce1f085db16c3c86fc7fae0&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bolatysf&label=Profile%20views&color=0e75b6&style=flat" alt="bolatysf" /> </p>
-<h3>About Me:</h3>
+<h3>👨‍💻 About Me:</h3>
 :sparkles: I earned a BSc degree in civil engineering 2013.
 
 :sparkles: In September 2022 I attended Bilge Adam Boost .Net Developer training.
