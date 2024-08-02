@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bolatysf&label=Profile%20views&color=0e75b6&style=flat" alt="bolatysf" /> </p>
 <h3>👨‍💻 About Me:</h3>
-:sparkles: In September 2022 I attended Bilge Adam Boost .Net Developer training.
-
-:sparkles: I Work at Haberler.com 
+:sparkles: Hey there! I'm Y.Bolat, a software developer by day and a tech enthusiast by night. I love diving into code, especially with .NET technologies, and I'm always up for a challenge. When I'm not coding, you can find me exploring the latest tech trends or contributing to open-source projects. Oh, and I make a mean cup of coffee! ☕️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
