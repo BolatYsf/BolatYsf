@@ -8,6 +8,7 @@
 <h3>👨‍💻 About Me:</h3>
 :sparkles: Hey there! I'm Y.Bolat, a software developer by day and a tech enthusiast by night. 
 
+
 :sparkles: I love diving into code, especially with .NET technologies, and I'm always up for a challenge.
 
 :sparkles: When I'm not coding, you can find me exploring the latest tech trends. 
